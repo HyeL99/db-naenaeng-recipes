@@ -174,66 +174,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "e505d9f2-5fd4-4f18-a307-f615c759005f",
-      "writer": "쿠로미",
-      "time": "2023-02-07T00:31:57.521Z",
-      "data": {
-        "title": "부드럽고 고소한 두부참깨 이유식",
-        "category": [
-          "이유식"
-        ],
-        "time": "15",
-        "ingredients": [
-          {
-            "name": "두부",
-            "quantity": "0.25",
-            "unit": "개"
-          },
-          {
-            "name": "참깨",
-            "quantity": " ",
-            "unit": "약간"
-          },
-          {
-            "name": "쌀밥",
-            "quantity": "100",
-            "unit": "g"
-          }
-        ],
-        "tags": [
-          "이유식",
-          "두부",
-          "참깨"
-        ],
-        "thumbnail": {
-          "name": "a34442e42fc68418a08519881d672a471.png",
-          "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/a34442e42fc68418a08519881d672a471.png"
-        },
-        "contents": [
-          {
-            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/54ebeab0968ec1f1274591c4e14120561.png",
-            "text": "참깨를 잘게 갈아주세요. 고소한 향이 더욱 풍부해집니다. 믹서기로 갈아주세요. 그게 빠릅니다."
-          },
-          {
-            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/3c84b20b3511da6ae8ea73d476d117301.png",
-            "text": "두부를 썰어줍니다."
-          },
-          {
-            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/4b119f958829aafeb28719ece91d3ef71.png",
-            "text": "잘 씻은 쌀은 깨끗한 물과 함께 믹서기에 갈아줍니다."
-          },
-          {
-            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/d36c99daccd1cd3fe76727f9c745da671.png",
-            "text": "잘 갈린 쌀을 냄비에 넣고 끓이면서 계속 저어줍니다. 타지 않게 계속 저어주는 게 중요합니다."
-          },
-          {
-            "path": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/26/b91ebfb8142d518fc11a5d45f6bbda2f1.png",
-            "text": "아까 준비했던 참깨가루와 두부를 넣고 부드럽게 저어줍니다."
-          }
-        ]
-      }
     }
   ]
 }
